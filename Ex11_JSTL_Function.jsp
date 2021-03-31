@@ -19,6 +19,6 @@
 	<h3>함수 적용 ({안에서})</h3>
 	대문자: ${fn:toUpperCase(str)}<br>
 	문자열 길이: ${fn:length(str)}<br>
-	대문자: ${fn:replace(str,'a','AAAA')}<br>
+	대문자: ${fn:replace(str,'a','AAAA'J)}<br>
 </body>
 </html>
